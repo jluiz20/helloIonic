@@ -1,0 +1,2 @@
+# helloIonic
+trying out Ionic
